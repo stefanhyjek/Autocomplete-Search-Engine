@@ -1,5 +1,5 @@
 How to run the program: 
-Run the program from a terminal using Python (I personally use PyCharm), with the required text files: prefixes.txt and words.txt in the same directory. When the program starts, you can type any prefix to search for matching words, type 'prefixes' to display all available prefixes from prefixes.txt or type 'exit' to quit.
+Run the program from a terminal using Python (I personally use PyCharm), with the required text files: prefixes.txt and words.txt in the same directory. When the program starts, you can type a prefix to search for matching words, type 'prefixes' to display all available prefixes from prefixes.txt or type 'exit' to quit.
 
 Required input files: 
 prefixes.txt, words.txt and autocomplete.py
